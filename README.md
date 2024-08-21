@@ -1,6 +1,6 @@
 ## LangServe ↔️ React Chatbot Example
 
-<img src="./public/React_for_LangServe.gif" />
+<img src="./public/React_for_LangServe2.gif" />
 
 ### HOW TO USE
 
