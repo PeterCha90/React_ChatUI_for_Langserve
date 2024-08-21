@@ -1,5 +1,7 @@
 ## LangServe ↔️ React Chatbot Example
 
+<img src="./public/React_for_LangServe.gif" />
+
 ### HOW TO USE
 
 1. `npm install`
