@@ -7,6 +7,10 @@
 1. `npm install`
 2. `npm start`
 
+* If you have an error like `TIL_error:0308010c:digital envelope routines::unsupported`,
+  then run `$ npm install --save --save-exact react-scripts@5.0.0
+`
+
 ### References
 
 - [nlUX](https://docs.nlkit.com/nlux/)
